@@ -10,5 +10,3 @@ getemail.addEventListener('keyup',function(e){
     // console.log(e.target.value);
     // console.log(this.value);
 });
-
-// 19EM 
